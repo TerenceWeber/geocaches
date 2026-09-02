@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="WitcherMedallion Test">
+  <wpt lat="47.6062" lon="-122.3321">
+    <name>Seattle Center</name>
+    <desc>Sample geocache for testing the GPX parser.</desc>
+    <url>https://www.geocaching.com/geocache/GC1ABC2</url>
+  </wpt>
+  <wpt lat="47.6111" lon="-122.3444">
+    <name>GC3DEF4</name>
+    <desc>Another sample cache with the GC code in the name.</desc>
+  </wpt>
+  <wpt lat="47.6200" lon="-122.3310">
+    <name>Lake Union View</name>
+    <desc>Third sample geocache for parser validation.</desc>
+    <url>https://www.geocaching.com/geocache/GC987654</url>
+  </wpt>
+</gpx>
