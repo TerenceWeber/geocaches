@@ -1,17 +1,300 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="WitcherMedallion Test">
-  <wpt lat="47.6062" lon="-122.3321">
-    <name>Seattle Center</name>
-    <desc>Sample geocache for testing the GPX parser.</desc>
-    <url>https://www.geocaching.com/geocache/GC1ABC2</url>
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.0" creator="c:geo - http://www.cgeo.org/" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd http://www.gsak.net/xmlv1/6 http://www.gsak.net/xmlv1/6/gsak.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1" xmlns:gsak="http://www.gsak.net/xmlv1/6" xmlns:cgeo="http://www.cgeo.org/wptext/1/0">
+  <wpt lat="0.0" lon="0.0">
+    <name>ZZ1000</name>
+    <desc>Herkimer puzzle</desc>
+    <urlname>Herkimer puzzle</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|User defined cache</type>
+    <groundspeak:cache id="" available="True" archived="False">
+      <groundspeak:name>Herkimer puzzle</groundspeak:name>
+      <groundspeak:placed_by>You</groundspeak:placed_by>
+      <groundspeak:owner></groundspeak:owner>
+      <groundspeak:type>User defined cache</groundspeak:type>
+      <groundspeak:container>Unknown</groundspeak:container>
+      <groundspeak:difficulty>0</groundspeak:difficulty>
+      <groundspeak:terrain>0</groundspeak:terrain>
+      <groundspeak:country></groundspeak:country>
+      <groundspeak:state></groundspeak:state>
+      <groundspeak:short_description html="False"></groundspeak:short_description>
+      <groundspeak:long_description html="False">This is a user-defined cache</groundspeak:long_description>
+      <groundspeak:encoded_hints></groundspeak:encoded_hints>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>-1</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
   </wpt>
-  <wpt lat="47.6111" lon="-122.3444">
-    <name>GC3DEF4</name>
-    <desc>Another sample cache with the GC code in the name.</desc>
+  <wpt lat="29.7965" lon="-95.3817">
+    <name>00</name>
+    <cmt></cmt>
+    <desc>Marker 1</desc>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+    <gsak:wptExtension>
+      <gsak:Parent>ZZ1000</gsak:Parent>
+      <gsak:Child_ByGSAK>true</gsak:Child_ByGSAK>
+    </gsak:wptExtension>
+    <cgeo:userdefined>true</cgeo:userdefined>
   </wpt>
-  <wpt lat="47.6200" lon="-122.3310">
-    <name>Lake Union View</name>
-    <desc>Third sample geocache for parser validation.</desc>
-    <url>https://www.geocaching.com/geocache/GC987654</url>
+  <wpt lat="45.499717" lon="-122.6248">
+    <time>2011-07-28T00:00:00Z</time>
+    <name>GC31373</name>
+    <desc>Raise Your Flowers</desc>
+    <url>https://coord.info/GC31373</url>
+    <urlname>Raise Your Flowers</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2392337" available="True" archived="False">
+      <groundspeak:name>Raise Your Flowers</groundspeak:name>
+      <groundspeak:placed_by>Theadorkable, LindaRM</groundspeak:placed_by>
+      <groundspeak:owner>Theadorkable</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:attributes>
+        <groundspeak:attribute id="6" inc="1">Recommended for kids</groundspeak:attribute>
+        <groundspeak:attribute id="41" inc="1">Stroller accessible</groundspeak:attribute>
+        <groundspeak:attribute id="1" inc="1">Dogs allowed</groundspeak:attribute>
+        <groundspeak:attribute id="13" inc="1">Available at all times</groundspeak:attribute>
+        <groundspeak:attribute id="7" inc="1">Takes less than an hour</groundspeak:attribute>
+        <groundspeak:attribute id="65" inc="1">Private residence</groundspeak:attribute>
+        <groundspeak:attribute id="32" inc="1">Bicycles allowed</groundspeak:attribute>
+        <groundspeak:attribute id="62" inc="1">Seasonal access</groundspeak:attribute>
+        <groundspeak:attribute id="15" inc="1">Available during winter</groundspeak:attribute>
+      </groundspeak:attributes>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Oregon</groundspeak:state>
+      <groundspeak:short_description html="False">Beware, muggles may be in the area. It can be reached from the sidewalk, but may be out of reach for a wheelchair or small child at sidewalk level. Owner is aware of geocache, so feel free to step on the property to search. Muggles may question you. NOTE: The "No Trespassing" sign does not apply to geocachers.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Bring your own pen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Woodn't you want to know.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="1382058453">
+          <groundspeak:date>2026-08-31T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">gangangss</groundspeak:finder>
+          <groundspeak:text encoded="False">Hfch b</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1380909315">
+          <groundspeak:date>2026-08-25T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">pseudobran</groundspeak:finder>
+          <groundspeak:text encoded="False">Don't let the frog fool you. Tftc!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1378363512">
+          <groundspeak:date>2026-08-13T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">MattRPDX</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache owner is awesome!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1374473904">
+          <groundspeak:date>2026-07-26T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">joelpher</groundspeak:finder>
+          <groundspeak:text encoded="False">Thanks!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1372934912">
+          <groundspeak:date>2026-07-19T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Broheim5000</groundspeak:finder>
+          <groundspeak:text encoded="False">Beautiful yard!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1369479473">
+          <groundspeak:date>2026-06-30T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">PDXBandits</groundspeak:finder>
+          <groundspeak:text encoded="False">Great find on a cloudy summer day!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1368934152">
+          <groundspeak:date>2026-06-26T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Cool Cow Cachers</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;June 26, 2026&lt;br /&gt; 8:02 PM&lt;/p&gt; &lt;p&gt;We came to Portland this weekend specifically targeting caches for the Portland Neighborhood Challenge. We stopped here just before checking into our hotel for the night. &lt;/p&gt; &lt;p&gt;Thank you, Theadorkable, LindaRM, for cowntributing to our fun today!&lt;/p&gt; &lt;p&gt;Cool Cow Cachers, off to find an-udder one... ?&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1368543345">
+          <groundspeak:date>2026-06-23T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">arloroster</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC! Pls replace log or waterproof better</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1365033101">
+          <groundspeak:date>2026-06-02T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">DankyFranky</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find! First find of the day! :)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1364110391">
+          <groundspeak:date>2026-05-28T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">XzXMARCUS</groundspeak:finder>
+          <groundspeak:text encoded="False">Log is super wet thanks!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1363299537">
+          <groundspeak:date>2026-05-24T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Belladonna42</groundspeak:finder>
+          <groundspeak:text encoded="False">That was so fun! ?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1361123070">
+          <groundspeak:date>2026-05-15T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">gerny27</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice hiding spot! TFTC!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1362227251">
+          <groundspeak:date>2026-05-14T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">L1ght3r</groundspeak:finder>
+          <groundspeak:text encoded="False">Found right after my track meet with Tnchrstn. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1361025672">
+          <groundspeak:date>2026-05-14T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">tnchrstn</groundspeak:finder>
+          <groundspeak:text encoded="False">I've been over here twice this week for my son's track meets. After he finished up this evening we stopped by here. This was a simple find but I was a little nervous because there's also a no trespassing sign in the yard. Second place I looked was where the cache was. Prior logs had me a little worried but the log was signable and there were only a few ants. Thanks for the cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1360646516">
+          <groundspeak:date>2026-05-12T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Sweet4aurora</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it but couldn't sign the log way too wet. If you need verification that we found it, the log is so wet that it is transparent. Also there is a tiny bird inside and some kind of fungi growing inside.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1358143882">
+          <groundspeak:date>2026-04-30T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">moon767</groundspeak:finder>
+          <groundspeak:text encoded="False">Wet</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1355656941">
+          <groundspeak:date>2026-04-17T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">kinetickate</groundspeak:finder>
+          <groundspeak:text encoded="False">almost got caught by the neighbor but manage to make it stealthy. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1355100598">
+          <groundspeak:date>2026-04-13T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Lopey</groundspeak:finder>
+          <groundspeak:text encoded="False">Grabbed it while no one was around. Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1353315531">
+          <groundspeak:date>2026-04-05T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">jmalkowski</groundspeak:finder>
+          <groundspeak:text encoded="False">Ant party in the capsule. Fun jumpscare.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1348319807">
+          <groundspeak:date>2026-03-09T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">markens</groundspeak:finder>
+          <groundspeak:text encoded="False">Fun stop while out for a walk this morning, thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1343850571">
+          <groundspeak:date>2026-02-03T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">CrowPatrol33</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely! ?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1343687505">
+          <groundspeak:date>2026-02-01T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Cheese_Grater14</groundspeak:finder>
+          <groundspeak:text encoded="False">Very epic idea</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1339162367">
+          <groundspeak:date>2025-12-25T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Sphynxdr</groundspeak:finder>
+          <groundspeak:text encoded="False">Thank you!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1337217749">
+          <groundspeak:date>2025-12-07T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Faceslapers</groundspeak:finder>
+          <groundspeak:text encoded="False">this was so fun. We had a great time love the hint good luck</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1337184715">
+          <groundspeak:date>2025-12-07T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">emotsick</groundspeak:finder>
+          <groundspeak:text encoded="False">nice</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1335580847">
+          <groundspeak:date>2025-11-22T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">CGinOR</groundspeak:finder>
+          <groundspeak:text encoded="False">Met the CO’s mom while on the hunt. Had a very nice chat. Fairly quick find with hint. Thanks for adding to my fun today.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1328518171">
+          <groundspeak:date>2025-10-03T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Dr. Flonase</groundspeak:finder>
+          <groundspeak:text encoded="False">Driving around looking for a self-service vacuum, and stopped for some caches &amp;quot;along the way.&amp;quot; This one was a nice front-yard, after I moved on from the wrong item, it was a quick find. Thanks!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1326377630">
+          <groundspeak:date>2025-09-26T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">katitoullie</groundspeak:finder>
+          <groundspeak:text encoded="False">Thank u!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1321858888">
+          <groundspeak:date>2025-09-01T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">JoAndMom</groundspeak:finder>
+          <groundspeak:text encoded="False">Our first cache in a neighborhood.y daughter was so weirded out by it. LOL. We found it right away and she got a most beautiful treasure! She loved it so much we left two little treasures behind. Thank you!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1321848757">
+          <groundspeak:date>2025-09-01T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">luboo79</groundspeak:finder>
+          <groundspeak:text encoded="False">Thank you ?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1321818832">
+          <groundspeak:date>2025-09-01T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">geobugpdx</groundspeak:finder>
+          <groundspeak:text encoded="False">The little one found it quickly, Tftc!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1316211760">
+          <groundspeak:date>2025-08-08T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Fenton2</groundspeak:finder>
+          <groundspeak:text encoded="False">Good hiding spot!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1316156806">
+          <groundspeak:date>2025-08-08T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">shenkerism</groundspeak:finder>
+          <groundspeak:text encoded="False">I love to see multiple garden synergy. Met the home owner, she was nice.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1315784175">
+          <groundspeak:date>2025-08-06T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">niconiconiiiii</groundspeak:finder>
+          <groundspeak:text encoded="False">Very cool spot!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1313175975">
+          <groundspeak:date>2025-07-26T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="">samirsamirsamir</groundspeak:finder>
+          <groundspeak:text encoded="False">Idk where it is</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>10</gsak:FavPoints>
+      <gsak:GcNote></gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
   </wpt>
 </gpx>
